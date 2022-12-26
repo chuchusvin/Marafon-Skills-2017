@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="50d27ce410774aed85b5ff4760c5787e" Name="Diagram1">
+        <EntityTypeShape EntityType="MarathonSkillsModel.Charity" Width="1.5" PointX="3" PointY="20.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.Country" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.Event" Width="1.5" PointX="5.25" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.EventType" Width="1.5" PointX="3" PointY="26.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.Gender" Width="1.5" PointX="0.75" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.Marathon" Width="1.5" PointX="3" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.RaceKitOption" Width="1.5" PointX="3" PointY="23" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.Registration" Width="1.5" PointX="5.25" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.RegistrationEvent" Width="1.5" PointX="7.5" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.RegistrationStatus" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.Role" Width="1.5" PointX="1.5" PointY="16.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.Runner" Width="1.5" PointX="3" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.Sponsorship" Width="1.5" PointX="7.5" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.sysdiagrams" Width="1.5" PointX="7.75" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.User" Width="1.5" PointX="0.75" PointY="12.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonSkillsModel.Volunteer" Width="1.5" PointX="3" PointY="11.75" IsExpanded="true" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Registrat__Chari__6EF57B66" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Registrat__Chari__7F2BE32F" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Marathon__Countr__03F0984C" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Marathon__Countr__73BA3083" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Runner__CountryC__68487DD7" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Runner__CountryC__787EE5A0" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Volunteer__Count__6A30C649" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Volunteer__Count__7A672E12" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Event__EventType__00200768" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Event__EventType__6FE99F9F" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Event__MarathonI__01142BA1" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Event__MarathonI__70DDC3D8" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Registrat__Event__02FC7413" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Registrat__Event__72C60C4A" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Runner__Gender__6754599E" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Runner__Gender__778AC167" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Volunteer__Gende__693CA210" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Volunteer__Gende__797309D9" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Registrat__RaceK__6D0D32F4" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Registrat__RaceK__7D439ABD" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Registrat__Regis__02084FDA" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Registrat__Regis__6E01572D" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Registrat__Regis__71D1E811" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Registrat__Regis__7E37BEF6" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Registrat__Runne__6C190EBB" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Registrat__Runne__7C4F7684" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Sponsorsh__Regis__6B24EA82" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Sponsorsh__Regis__7B5B524B" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__User__RoleId__656C112C" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__User__RoleId__75A278F5" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Runner__Email__66603565" ManuallyRouted="false" />
+        <AssociationConnector Association="MarathonSkillsModel.FK__Runner__Email__76969D2E" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

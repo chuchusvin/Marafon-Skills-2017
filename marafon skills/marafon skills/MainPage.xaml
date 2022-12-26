@@ -1,0 +1,31 @@
+﻿<Page x:Class="marafon_skills.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:marafon_skills"
+      mc:Ignorable="d" 
+      d:DesignHeight="422" d:DesignWidth="700"
+      Title="MainPage">
+
+    <Grid>
+        <RichTextBox x:Name="richTextBox" Height="145" Padding="20" VerticalAlignment="Top" BorderThickness="0" IsHitTestVisible="False" IsReadOnly="True" Background="{DynamicResource dark_grey}" TextChanged="richTextBox_TextChanged">
+            <FlowDocument TextAlignment="Center" Foreground="White" FontSize="20" >
+                <Paragraph FontWeight="Bold" >
+                    <Run Text="MARATHON SKILLS 2017"/>
+                </Paragraph>
+                <Paragraph FontStyle="Italic" Foreground="{DynamicResource light_grey}">
+                    <Run Text="Москва, Россия"/>
+                    <LineBreak/>
+                    <Run Text="Среда 21 октября 2017"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+        <Button x:Name="Button_becomeRunner" Content="Я хочу стать бегуном" HorizontalAlignment="Center" VerticalAlignment="Top" Style="{DynamicResource base_button}" Height="50" Width="240" Margin="0,161,0,0"/>
+        <Button x:Name="Button_becomeSponsor" Click="button_becomeSponsor_Click" Content="Я хочу стать спонсором бегуна" HorizontalAlignment="Center" VerticalAlignment="Top" Style="{DynamicResource base_button}" Height="50" Width="240" Margin="0,216,0,0"/>
+        <Button x:Name="Button_about" Content="Я хочу узнать больше о событии" HorizontalAlignment="Center" VerticalAlignment="Top" Style="{DynamicResource base_button}" Height="50" Width="240" Margin="0,271,0,0" Click="Button_about_Click"/>
+        <Button x:Name="Button_login" Content="Login" HorizontalAlignment="Left" VerticalAlignment="Bottom" Height="26" Width="84" Margin="568,0,0,50" />
+
+    </Grid>
+</Page>

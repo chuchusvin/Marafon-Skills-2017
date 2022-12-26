@@ -1,0 +1,87 @@
+Z:\marafon skills\marafon skills\bin\Debug\marafon skills.exe.config
+Z:\marafon skills\marafon skills\bin\Debug\marafon skills.exe
+Z:\marafon skills\marafon skills\bin\Debug\marafon skills.pdb
+Z:\marafon skills\marafon skills\bin\Debug\EntityFramework.dll
+Z:\marafon skills\marafon skills\bin\Debug\EntityFramework.SqlServer.dll
+Z:\marafon skills\marafon skills\bin\Debug\EntityFramework.xml
+Z:\marafon skills\marafon skills\bin\Debug\EntityFramework.SqlServer.xml
+Z:\marafon skills\marafon skills\bin\Debug\ru\EntityFramework.resources.dll
+Z:\marafon skills\marafon skills\obj\Debug\marafon_skills.csproj.AssemblyReference.cache
+Z:\marafon skills\marafon skills\obj\Debug\marafon_skills.csproj.SuggestedBindingRedirects.cache
+Z:\marafon skills\marafon skills\obj\Debug\MainPage.g.cs
+Z:\marafon skills\marafon skills\obj\Debug\MainWindow.g.cs
+Z:\marafon skills\marafon skills\obj\Debug\SponsorPage.g.cs
+Z:\marafon skills\marafon skills\obj\Debug\App.g.cs
+Z:\marafon skills\marafon skills\obj\Debug\marafon skills_Content.g.cs
+Z:\marafon skills\marafon skills\obj\Debug\marafon skills_MarkupCompile.cache
+Z:\marafon skills\marafon skills\obj\Debug\marafon skills_MarkupCompile.lref
+Z:\marafon skills\marafon skills\obj\Debug\App.baml
+Z:\marafon skills\marafon skills\obj\Debug\MainPage.baml
+Z:\marafon skills\marafon skills\obj\Debug\MainWindow.baml
+Z:\marafon skills\marafon skills\obj\Debug\Resource\Dictionary.baml
+Z:\marafon skills\marafon skills\obj\Debug\SponsorPage.baml
+Z:\marafon skills\marafon skills\obj\Debug\marafon skills.g.resources
+Z:\marafon skills\marafon skills\obj\Debug\marafon_skills.Properties.Resources.resources
+Z:\marafon skills\marafon skills\obj\Debug\marafon_skills.csproj.GenerateResource.cache
+Z:\marafon skills\marafon skills\obj\Debug\marafon_skills.csproj.CoreCompileInputs.cache
+Z:\marafon skills\marafon skills\obj\Debug\marafon_skills.csproj.CopyComplete
+Z:\marafon skills\marafon skills\obj\Debug\marafon skills.exe
+Z:\marafon skills\marafon skills\obj\Debug\marafon skills.pdb
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\bin\Debug\marafon skills.exe.config
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\bin\Debug\marafon skills.exe
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\bin\Debug\marafon skills.pdb
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\obj\Debug\marafon_skills.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\obj\Debug\marafon_skills.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\obj\Debug\MainPage.g.cs
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\obj\Debug\SponsorPage.g.cs
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\obj\Debug\App.g.cs
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\obj\Debug\marafon skills_Content.g.cs
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\obj\Debug\marafon skills_MarkupCompile.cache
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\obj\Debug\marafon skills_MarkupCompile.lref
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\obj\Debug\App.baml
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\obj\Debug\MainPage.baml
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\obj\Debug\Resource\Dictionary.baml
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\obj\Debug\SponsorPage.baml
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\obj\Debug\marafon skills.g.resources
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\obj\Debug\marafon_skills.Properties.Resources.resources
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\obj\Debug\marafon_skills.csproj.GenerateResource.cache
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\obj\Debug\marafon_skills.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\obj\Debug\marafon_skills.csproj.CopyComplete
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\obj\Debug\marafon skills.exe
+C:\Users\student\Desktop\milk\marafon skills\marafon skills\obj\Debug\marafon skills.pdb
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\bin\Debug\marafon skills.exe.config
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\bin\Debug\marafon skills.exe
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\bin\Debug\marafon skills.pdb
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\bin\Debug\EntityFramework.dll
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\bin\Debug\EntityFramework.xml
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\bin\Debug\ru\EntityFramework.resources.dll
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\obj\Debug\marafon_skills.csproj.AssemblyReference.cache
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\obj\Debug\marafon_skills.csproj.SuggestedBindingRedirects.cache
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\obj\Debug\MainPage.g.cs
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\obj\Debug\MainWindow.g.cs
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\obj\Debug\SponsorPage.g.cs
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\obj\Debug\App.g.cs
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\obj\Debug\marafon skills_Content.g.cs
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\obj\Debug\marafon skills_MarkupCompile.cache
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\obj\Debug\marafon skills_MarkupCompile.lref
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\obj\Debug\App.baml
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\obj\Debug\MainPage.baml
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\obj\Debug\MainWindow.baml
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\obj\Debug\Resource\Dictionary.baml
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\obj\Debug\SponsorPage.baml
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\obj\Debug\marafon skills.g.resources
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\obj\Debug\marafon_skills.Properties.Resources.resources
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\obj\Debug\marafon_skills.csproj.GenerateResource.cache
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\obj\Debug\marafon_skills.csproj.CoreCompileInputs.cache
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\obj\Debug\marafon_skills.csproj.CopyComplete
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\obj\Debug\marafon skills.exe
+Z:\Users\Sasha\Desktop\git-main\marafon skills\marafon skills\obj\Debug\marafon skills.pdb

@@ -1,0 +1,51 @@
+﻿<Page x:Class="marafon_skills.SponsorPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:marafon_skills"
+      mc:Ignorable="d" 
+      d:DesignHeight="422" d:DesignWidth="700"
+      Title="SponsorPage" Loaded="Page_Loaded">
+
+    <Grid>
+        <Label x:Name="label" Background="{DynamicResource dark_grey}" Content="MARATHON SKILLS 2017" Padding="100,0,0,0"  HorizontalContentAlignment="Left"  FontWeight="Bold" Foreground="White" VerticalAlignment="Top" Height="45" Width="700"/>
+        <Button Click="button_back_Click" x:Name="button_back" Content="Назад" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Height="25"/>
+        <RichTextBox x:Name="richTextBox" Background="Transparent" HorizontalAlignment="Center" Height="75" Margin="0,50,0,0" VerticalAlignment="Top" Width="640" TextChanged="richTextBox_TextChanged" >
+            <FlowDocument TextAlignment="Center" >
+                <Paragraph FontWeight="Bold" >
+                    <Run Text="Спонсор бегуна"/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="Пожалуйста выберите бегуна, которого вы отели бы спонсировать и сумму, которую вы хотели бы спонсировать. Спасибо за вашу поддержку бегунов и их благотворительных учреждений.
+"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Label FontWeight="Bold" Content="Информация о Спонсоре" HorizontalAlignment="Left" Margin="69,135,0,0" VerticalAlignment="Top"/>
+        <Label FontWeight="Bold" Content="Благотворительность" HorizontalAlignment="Left" Margin="444,135,0,0" VerticalAlignment="Top"/>
+        <Label FontWeight="Bold" Content="Сумма пожертвования" HorizontalAlignment="Left" Margin="444,193,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button_pay" Content="Заплатить" HorizontalAlignment="Left" Margin="520,355,0,0" VerticalAlignment="Top" Width="75" Height="25"/>
+        <Button x:Name="button_cancel" Click="button_back_Click" Content="Отмена" HorizontalAlignment="Left" Margin="600,355,0,0" Width="74" Height="25" VerticalAlignment="Top"/>
+        <TextBox x:Name="TextBox_donation" HorizontalAlignment="Left" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="480,255,0,0" VerticalAlignment="Top" Width="120" Height="23" TextWrapping="Wrap" Text="{Binding donation, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" TextChanged="TextBox_donation_TextChanged"/>
+        <Label x:Name="label_charity" Content="Фонд" HorizontalAlignment="Left" Margin="444,170,0,0" VerticalAlignment="Top" Width="185"/>
+        <Label x:Name="label_donation" Content="{Binding donation, UpdateSourceTrigger=LostFocus, Mode=OneWay}" FontSize="30" HorizontalAlignment="Left" Margin="507,216,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button_sub" Click="button_sub_Click" Content="-" HorizontalAlignment="Left" Margin="450,255,0,0" VerticalAlignment="Top" Width="25" Height="23"/>
+        <Button x:Name="button_add" Click="button_add_Click" Content="+" HorizontalAlignment="Left" Margin="605,255,0,0" VerticalAlignment="Top" Width="25" Height="23" RenderTransformOrigin="1.48,1.913"/>
+        <Label HorizontalContentAlignment="Right" Content="Ваше имя:" HorizontalAlignment="Left" Margin="10,158,0,0" VerticalAlignment="Top" Height="23" Width="145"/>
+        <TextBox HorizontalAlignment="Left" Margin="169,158,0,0" Text=" " VerticalAlignment="Top" Width="200" Height="23"/>
+        <ComboBox x:Name="comboBox_runner" HorizontalAlignment="Left" Margin="169,186,0,0" VerticalAlignment="Top" Width="200" Height="23" SelectionChanged="ComboBox_SelectionChanged"/>
+        <TextBox HorizontalAlignment="Left" Margin="169,214,0,0" Text=" " VerticalAlignment="Top" Width="200" Height="22"/>
+        <TextBox HorizontalAlignment="Left" Margin="169,241,0,0" Text=" " VerticalAlignment="Top" Width="200" Height="23"/>
+        <TextBox HorizontalAlignment="Left" Margin="169,269,0,0" Text=" " VerticalAlignment="Top" Width="60" Height="23"/>
+        <TextBox HorizontalAlignment="Left" Margin="234,269,0,0" Text=" " VerticalAlignment="Top" Width="135" Height="23"/>
+        <TextBox HorizontalAlignment="Left" Margin="169,297,0,0" Text=" " VerticalAlignment="Top" Width="60" Height="22"/>
+        <Label HorizontalContentAlignment="Right" Content="Бегун:" HorizontalAlignment="Left" Margin="10,186,0,0" VerticalAlignment="Top" Height="23" Width="145"/>
+        <Label HorizontalContentAlignment="Right" Content="Карта:" HorizontalAlignment="Left" Margin="10,214,0,0" VerticalAlignment="Top" Height="23" Width="145"/>
+        <Label HorizontalContentAlignment="Right" Content="Номер карты:" HorizontalAlignment="Left" Margin="10,241,0,0" VerticalAlignment="Top" Height="22" Width="145"/>
+        <Label HorizontalContentAlignment="Right" Content="Срок действия:" HorizontalAlignment="Left" Margin="10,269,0,0" VerticalAlignment="Top" Height="23" Width="145"/>
+        <Label HorizontalContentAlignment="Right" Content="CVC:" HorizontalAlignment="Left" Margin="10,297,0,0" VerticalAlignment="Top" Height="23" Width="145"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="618,170,0,0" VerticalAlignment="Top" Width="38" Source="/infa.png"/>
+
+    </Grid>
+</Page>
